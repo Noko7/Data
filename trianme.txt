@@ -1,0 +1,97 @@
+The Basics of How Technical Analysis Works for Investors
+Michael N. Kahn, CMT
+
+When investment professionals as a group make their decisions, they often analyze such fundamental information as economics, politics, and demographics. They look back to the past to forecast what may happen in the future. This does not mean that they are consulting a magic oracle, but rather they are employing technical analysis of the markets. This discipline relies on generous amounts of historical price data that is both accurate and readily available to their computer applications.
+
+Technical analysis is based on human behavior, but it is not a study in psychology. Investors and speculators react the same way to the same types of events again and again, and this is reflected in the ebb and flow of prices. If one charts this activity over time, patterns in the price action emerge. Some of these patterns comprise standard technical analysis, whereas others are created by analysts based on their own observations and calculations. Historical data are required in both cases to test theories and fine tune their parameters.
+
+When currency traders, for example, are deciding whether or not to buy yen, they may look at a chart of yen prices for the past year to determine if the recent rally has ended. This graphical representation makes it a quick study. By expanding the chart to cover more years, they can quickly find other occasions when the yen rose quickly and what happened just after it did.
+
+History Repeats
+Technical price patterns are often followed by similar reactions. For example, if prices were rising and then start to trade in a small range, the characteristics (shape and size) of the range can be used to determine how far the market will move once the pattern is ended. This is not just a guess, but a highly likely condition (reaction by humans) based on thousands of similar occurrences in the past. The more historical data the investor has available, the more historical observations can be made and the more likely the investor will make a correct buy or sell decision.
+
+The biggest advantage to using a historical database in making these decisions is that it gives the trader or analyst perspective. A sharp price increase in one commodity today may be taken as a bullish sign until it is viewed as part of a longer chart that has been declining for the past six months. In that light, the rally in a commodity may well be an opportunity to unload it rather than load up on it.
+
+One of the biggest criticisms is that technical analysis is a self-fulfilling prophecy. Wearing a “making money, not forecasts” hat sounds like a good deal for those who get in early. Stepping back from the profits for a moment, it should be conceded that the criticism is true in some cases.
+
+One definition of a technical breakout says that a market that moves above the top of a technical pattern should be bought. Short-term traders who see this buy, and the market moves higher due to increased demand.
+
+This works well on the initial breakout as new buyers are drawn in. However, unless there are more technical factors supporting the move, the rally will fail. In this case, the prophecy will not come true. For a sustained rally, there must be increasing demand and increasing participation from the public (individual or institutional). True breakouts are usually presaged by changes in the underlying technical condition, have certain confirming characteristics at the breakout, and are followed by improving technical indications.
+
+Although this undermines the self-fulfilling prophecy argument, rallies, chart patterns, and breakouts can all be measured and followed because people do repeat their actions. A triangle pattern in today’s market is formed for many of the same reasons that it was formed before. A breakout now will probably create the same result.
+
+History repeats itself in the same way that snowflakes look alike. From a distance, they look the same. When put under the microscope, however, the differences become apparent. In the markets, human participants tend to do similar things given similar circumstances. For example, if a rally stalls and a triangle pattern forms on the charts, buyers and sellers become increasingly uncertain about what to do. They buy and sell with less confidence as they wait for some outside influence to spark the next move, higher or lower. The fact that there are at least five different variations of triangles tells us that these periods of increasing uncertainty are not exactly alike.
+
+What does a budding technician make of all this? Following the basic rules of market behavior will be profitable most of the time, and we must be nimble enough to react when events deviate from the expected.
+
+This summarizes the similarity of market actions without locking us into strict definitions. People tend to do similar things given similar conditions. We learn from our mistakes. However, there are always new people entering the market who have not yet had their lessons.
+
+Repetition and Rhyming
+Are no two snowflakes exactly alike? Does lightning ever strike twice? Does a bull market last the same time and move the same distance?
+
+It was Mark Twain who said, “History does not repeat itself. But it does rhyme.” No matter how much today’s market may look like a previous market, you cannot be 100% sure it will continue to react in the same way. It may go up, but not as fast. It may pause to rest in a quiet trading range, or it may pause to rest in a volatile trading range.
+
+With so many variables that can affect the market, the difference between having 80 and 90% of them in line probably does not matter to a bottom-line decision of buy, sell, or hold. It might affect the course or amount of the rally, but not the decision to buy or sell.
+
+Technical Market Theory
+Most people want to know a little about how the car works so they know how to drive it and when to take it in for service. Technical market theory encompasses a large body of work, rigorous testing, and decades of experience. At this stage, it is similar to the car in that the basics need an explanation. Becoming expert takes rather longer.
+
+As technical investors, we are chart readers. The key is to think of a chart in psychological, not graphic, terms. In other words, support is the level at which the aggressive selling of the bears has waned sufficiently to be offset by the rising aggressiveness of buying by the bulls. Resistance is the level at which the aggressive buying of the bulls has waned sufficiently to be offset by the rising aggressiveness of selling by the bears.
+
+The Basics of Technical Analysis
+Chart patterns represent the behavior of the masses. They are built from actual transactions, so in effect they represent how the pool of investors, traders, speculators, and hedgers have put their money where their collective mouths were over time.
+
+Because the composition of the pool stays relatively stable over time and investors react the same way time and time again when presented with the same circumstances, chart patterns can be used to measure the likelihood of similar resolutions to current market conditions in the future.
+
+Because not all players have access to the same information at the same time and they do not react at the same speed when they do get it, markets present opportunity. If everyone knew about a new product announcement from the Widget Company at the same time and they reacted the same way, the stock would only trade at the market maker’s bid-ask spread until the news came out. It would then jump completely to the next level, where it would trade perfectly flatly until the next news development. Trends represent the slow dissemination and assimilation of news.
+
+Because the market really consists of the mass of human will, it is prone to excessive swings from optimism to pessimism and back again. Technical analysis helps to measure these swings.
+
+Humans Again—Market Psychology
+This emerging field of analysis is beyond the scope here. However, a few of the basic concepts can be learned that directly apply to analyzing a stock or market, as well as a few that are indirectly indicated in the charts.
+
+Perceptions
+It is worth reiterating that a stock’s price often does not match its fundamental value. Current market price can and does deviate from the (forgive the jargon) capital asset price model and discounted value of future cash flows. In a marketplace where humans, not computers, determine prices, it is not what it is worth; it is what people think it is worth.
+
+How else can the phenomenon of Internet stocks be explained? In 1998 and 1999, these stocks tripled after their initial public offerings when they had no profits and unreliable revenues. And the 1987 crash? How can the fundamental value of the entire stock market be cut by almost one-third in one day when there was little change elsewhere in the outside world?
+
+Leading into the crash, people were ignoring such important factors as soaring interest rates and the prevalence of a “buy anything” mentality. When reality caught up with perceptions, prices tumbled.
+
+To rephrase this, the stock market or any other market never reflects calculated true value. It reflects people’s perception of the value; what people think it is worth.
+
+The Crowd Versus the Individual
+People like to believe that they are independent thinkers and that rational analysis and logic often prevail. They also might be modest enough to admit that other people have valid, and even superior, opinions.
+
+When those same rationally thinking people are part of a crowd, they tend to conform to the crowd. It is uncomfortable to maintain a minority opinion, even when the individual’s analysis is sound. As part of a crowd, humility is lost, as everyone begins to think that they (the crowd) are 100% right. There is no room for contrary opinion. Facts not confirming the mass opinion are ignored.
+
+In the 1987 crash, the crowd wanted to buy stocks and the market went up. The rare dissenter was called a “doomsayer,” even though the evidence for a crash was in place.
+
+The same condition is in effect at market bottoms. The crowd sees nothing but bad news and the market continues to fall. Changing conditions are ignored as they were in 1982, even as the dawn of the greatest bull market of all time was at hand.
+
+Technical analysts have the tools to follow the changing tide. Confidence in their analysis provides the conviction to act as an individual, against the crowd, if necessary.
+
+Myths and Truths
+A few of the myths surrounding technical analysis have been covered: the self-fulfilling prophecy, basing future price activity on past performance, and reading tea leaves. There can be some truth to self-fulfilling prophecy. After a stock breaks higher from a chart pattern, new buyers are drawn in. They push the price higher and that, in turn, draws in still more buyers.
+
+The problem with this explanation is that it unknowingly merges short- and long-term analysis with a one-time action (breakout) into one story. Short-term analysis would have told short-term traders to buy before the breakout. If technical conditions continue to improve after the breakout, then long-term analysis would confirm it with improved momentum (prices move convincingly) and higher volume (more shares change hands, suggesting broader public participation). Investor sentiment would improve as the changes in fundamental data filtered down to all investors.
+
+The past-performance issue is another of the critics’ favorites. How can past performance determine the future? The “random walk” theory of markets says that if prices are random, then nothing can predict them. But prices are not random. Prices are based on calculated value modified higher or lower by human perceptions of value. Calculated value changes in predictable ways based on the economy and the individual company. Perceived value also changes in predictable ways.
+
+It cannot be calculated how perceptions will change, but they can be measured based on current buying and selling in the market. Buying and selling leave measurable footprints on the charts, and because humans tend to do similar things given similar circumstances, it can be forecasted what the market, as the sum of all humans participating, will do next.
+
+It is not the past action of stocks that is used to predict the future. Rather, it is the form and extent of current trading and the time-tested knowledge of what people have done after similar patterns in the past that determine supply and demand. This allows prices to be forecast.
+
+The Pillars of Technical Analysis
+There are four main areas of technical analysis that analysts can objectively measure and use in trading systems. They are as follows:
+
+• Price
+
+• Volume
+
+• Time
+
+• Sentiment
+
+Price is the most important of these areas; we measure profits and losses in price differences between buys and sells. It deservedly gets the most focus by analysts and academics alike, but if all four can be employed together, the odds of making successful decisions can be dramatically increased.
+
+Volume includes such concepts as accumulation and distribution, market breadth, open interest, and trade count. Time includes cycles, seasonality, and relationships between patterns and trends from a duration point of view. Finally, sentiment is a more subjective area that seeks to determine solely if the masses—that is, the consensus of investors—is tipped too far in one direction. At that point, it pays to consider positioning against the crowd. Such indicators as cocktail party chatter and options premiums play roles here.
